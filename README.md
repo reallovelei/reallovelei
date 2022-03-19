@@ -8,6 +8,7 @@ Here are some quick things about me:
 
 - 📫 The best way to reach me is sending me an email.
 - ⚡ Coding is my passion.
+- 微信：lbbniu-com
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbbniu&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lbbniu&theme=github)
