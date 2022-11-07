@@ -9,6 +9,7 @@ Here are some quick things about me:
 - 📫 The best way to reach me is sending me an email.
 - ⚡ Coding is my passion.
 - 微信：benben701
+- 公众号: 码上读书
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reallovelei&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reallovelei&theme=github)
